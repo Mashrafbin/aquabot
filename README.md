@@ -42,6 +42,9 @@ Key Features:
 • Multi-device support — monitor from more than one phone or computer at once
 • Runs on a local network — no cloud subscription required to operate
 
+<img width="1001" height="664" alt="image" src="https://github.com/user-attachments/assets/cd680cce-d8f2-4b4b-b598-eeb6fb566f9a" />
+
+
 Business Opportunities:
 • Hardware sales: sell ready-to-deploy patrol boats directly to individual farms.
 • Monitoring-as-a-service: a subscription covering the dashboard, data storage, and support — recurring
